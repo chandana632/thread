@@ -1,0 +1,2206 @@
+{
+  "products":
+  [
+  {
+    "id": 1,
+    "productName": "Object-based human-resource moderator",
+    "productCategory": "Saree",
+    "productImage": "https://dummyimage.com/579x586",
+    "productDescription": "Class consider former shake that. Page gas box note prove. Wear side parent relationship wife toward effort.",
+    "productColors": [
+      "White"
+    ],
+    "productSize": [
+      "XS",
+      "S",
+      "Free Size"
+    ],
+    "productRating": 2.6,
+    "productDateAdded": "2025-09-03 12:04:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "108 cm"
+    }
+  },
+  {
+    "id": 2,
+    "productName": "Organic 24hour installation",
+    "productCategory": "Saree",
+    "productImage": "https://dummyimage.com/125x280",
+    "productDescription": "You alone possible strong. Allow bring determine direction coach so. Child record oil material expect life yet. Radio law left off international his.",
+    "productColors": [
+      "Grey"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 1.8,
+    "productDateAdded": "2025-08-31 02:23:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "279 cm"
+    }
+  },
+  {
+    "id": 3,
+    "productName": "Ameliorated disintermediate hardware",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/584/602",
+    "productDescription": "Country indeed huge human. Ability bring wide process.",
+    "productColors": [
+      "Red",
+      "Purple",
+      "Pink"
+    ],
+    "productSize": [
+      "XXL",
+      "Free Size"
+    ],
+    "productRating": 0.5,
+    "productDateAdded": "2025-10-15 03:53:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "95 cm"
+    }
+  },
+  {
+    "id": 4,
+    "productName": "Function-based object-oriented utilization",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/871/482",
+    "productDescription": "Purpose option environmental bank knowledge. Form beyond rest staff none population.\nSocial candidate reality compare. Prevent person baby.",
+    "productColors": [
+      "Purple"
+    ],
+    "productSize": [
+      "L",
+      "M",
+      "S"
+    ],
+    "productRating": 0.9,
+    "productDateAdded": "2025-09-11 15:53:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "180 cm"
+    }
+  },
+  {
+    "id": 5,
+    "productName": "Persistent context-sensitive focus group",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/235x515",
+    "productDescription": "Fast court quite choose building check his real. Receive him in weight. Popular worry find turn staff little anyone.",
+    "productColors": [
+      "Grey",
+      "Brown"
+    ],
+    "productSize": [
+      "XL",
+      "S",
+      "XS",
+      "XXL"
+    ],
+    "productRating": 2.1,
+    "productDateAdded": "2025-10-03 13:03:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "176 cm"
+    }
+  },
+  {
+    "id": 6,
+    "productName": "Configurable even-keeled leverage",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/999/174",
+    "productDescription": "Long stop remember professional from time. Red past word. Type whether memory head high somebody follow.",
+    "productColors": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Purple"
+    ],
+    "productSize": [
+      "XS",
+      "Free Size",
+      "L",
+      "M"
+    ],
+    "productRating": 0.7,
+    "productDateAdded": "2025-10-09 14:51:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "261 cm"
+    }
+  },
+  {
+    "id": 7,
+    "productName": "Mandatory incremental contingency",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/702/140",
+    "productDescription": "Believe bad bank. Later himself follow seven mission case difficult. Indeed yeah important say.",
+    "productColors": [
+      "Red"
+    ],
+    "productSize": [
+      "XL",
+      "L"
+    ],
+    "productRating": 4.6,
+    "productDateAdded": "2025-09-30 17:17:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "280 cm"
+    }
+  },
+  {
+    "id": 8,
+    "productName": "Organic responsive pricing structure",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/358/923/any",
+    "productDescription": "Although charge center positive water ok time. Space huge memory finally role draw.",
+    "productColors": [
+      "Yellow"
+    ],
+    "productSize": [
+      "Free Size",
+      "S",
+      "M"
+    ],
+    "productRating": 0.3,
+    "productDateAdded": "2025-09-28 01:16:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "264 cm"
+    }
+  },
+  {
+    "id": 9,
+    "productName": "Centralized optimizing archive",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/1016x346",
+    "productDescription": "Which tree job soldier. Authority quite resource news church imagine. Assume cell face.",
+    "productColors": [
+      "Yellow",
+      "Purple"
+    ],
+    "productSize": [
+      "XXL",
+      "XL"
+    ],
+    "productRating": 1.9,
+    "productDateAdded": "2025-09-10 03:57:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "131 cm"
+    }
+  },
+  {
+    "id": 10,
+    "productName": "Customizable real-time access",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/827/347",
+    "productDescription": "Compare magazine although put many life arrive. Light particularly or.",
+    "productColors": [
+      "Blue",
+      "White"
+    ],
+    "productSize": [
+      "M",
+      "XL",
+      "XXL",
+      "Free Size"
+    ],
+    "productRating": 2.5,
+    "productDateAdded": "2025-09-01 23:17:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "126 cm"
+    }
+  },
+  {
+    "id": 11,
+    "productName": "Optional zero-defect ability",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/532/497/any",
+    "productDescription": "Allow shake medical treatment whom clear find account. Around once staff. Front us who.\nPass population seat any. Employee peace similar win.",
+    "productColors": [
+      "Blue"
+    ],
+    "productSize": [
+      "XS"
+    ],
+    "productRating": 1.9,
+    "productDateAdded": "2025-09-18 11:19:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "277 cm"
+    }
+  },
+  {
+    "id": 12,
+    "productName": "User-friendly zero tolerance superstructure",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/142/933",
+    "productDescription": "Western final picture over treatment record entire. Information view fly during. Statement office black edge meeting.",
+    "productColors": [
+      "Grey",
+      "Brown",
+      "Yellow"
+    ],
+    "productSize": [
+      "XXL"
+    ],
+    "productRating": 2.3,
+    "productDateAdded": "2025-10-03 23:13:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "269 cm"
+    }
+  },
+  {
+    "id": 13,
+    "productName": "Right-sized disintermediate conglomeration",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/600/159",
+    "productDescription": "Strategy admit trip dinner. Only country word action else reflect. Blue raise break mother consider no maintain citizen.",
+    "productColors": [
+      "Purple",
+      "Black",
+      "Blue",
+      "Yellow"
+    ],
+    "productSize": [
+      "S",
+      "M",
+      "XS"
+    ],
+    "productRating": 4.1,
+    "productDateAdded": "2025-10-14 18:56:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "191 cm"
+    }
+  },
+  {
+    "id": 14,
+    "productName": "Multi-lateral foreground orchestration",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/15/436",
+    "productDescription": "Large hard but once collection last enjoy. Fly take ready almost example too.",
+    "productColors": [
+      "Red",
+      "Black",
+      "Brown"
+    ],
+    "productSize": [
+      "L",
+      "S",
+      "XS",
+      "Free Size"
+    ],
+    "productRating": 2.2,
+    "productDateAdded": "2025-09-02 23:14:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "180 cm"
+    }
+  },
+  {
+    "id": 15,
+    "productName": "Compatible national encoding",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/108/444/any",
+    "productDescription": "Various however whom order born. Culture into also Mr. Wait whose discussion but strategy beat who walk.",
+    "productColors": [
+      "Red",
+      "Grey",
+      "Brown"
+    ],
+    "productSize": [
+      "S",
+      "XL",
+      "XS",
+      "Free Size"
+    ],
+    "productRating": 3.2,
+    "productDateAdded": "2025-10-11 09:21:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "160 cm"
+    }
+  },
+  {
+    "id": 16,
+    "productName": "Extended 24hour artificial intelligence",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/800/549/any",
+    "productDescription": "Hear answer health seat a town. Agency floor on.",
+    "productColors": [
+      "White",
+      "Grey"
+    ],
+    "productSize": [
+      "XS",
+      "M",
+      "XXL",
+      "XL"
+    ],
+    "productRating": 3.7,
+    "productDateAdded": "2025-10-10 14:35:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "163 cm"
+    }
+  },
+  {
+    "id": 17,
+    "productName": "User-friendly human-resource customer loyalty",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/355/18",
+    "productDescription": "Such central top mother determine dark. Chance recent rich public beat reach.\nSide our discover heart summer it without.",
+    "productColors": [
+      "Red",
+      "Brown",
+      "Green"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 2.1,
+    "productDateAdded": "2025-09-06 17:23:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "195 cm"
+    }
+  },
+  {
+    "id": 18,
+    "productName": "Robust non-volatile service-desk",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/784/312/any",
+    "productDescription": "Stuff economic if later low. Set street someone create federal away improve.",
+    "productColors": [
+      "White"
+    ],
+    "productSize": [
+      "XS",
+      "L"
+    ],
+    "productRating": 1.3,
+    "productDateAdded": "2025-08-27 21:23:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "256 cm"
+    }
+  },
+  {
+    "id": 19,
+    "productName": "Optimized eco-centric ability",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/417/599",
+    "productDescription": "Class or imagine green occur. Behind director system certainly. Trial customer here.",
+    "productColors": [
+      "Red",
+      "White",
+      "Brown"
+    ],
+    "productSize": [
+      "XL",
+      "XS"
+    ],
+    "productRating": 3.8,
+    "productDateAdded": "2025-09-25 12:32:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "117 cm"
+    }
+  },
+  {
+    "id": 20,
+    "productName": "Cross-group multi-tasking implementation",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/611x939",
+    "productDescription": "Need pay check oil our relationship. Chair expect current effect.",
+    "productColors": [
+      "Pink",
+      "Yellow",
+      "Black",
+      "Purple"
+    ],
+    "productSize": [
+      "M",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "productRating": 3.3,
+    "productDateAdded": "2025-10-06 21:18:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "195 cm"
+    }
+  },
+  {
+    "id": 21,
+    "productName": "Switchable dynamic Graphic Interface",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/246/733",
+    "productDescription": "Provide both animal peace would list. How concern money. In these entire low.",
+    "productColors": [
+      "Brown"
+    ],
+    "productSize": [
+      "XL"
+    ],
+    "productRating": 2.7,
+    "productDateAdded": "2025-08-19 19:56:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "252 cm"
+    }
+  },
+  {
+    "id": 22,
+    "productName": "Triple-buffered asymmetric moratorium",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/32/1/any",
+    "productDescription": "Rest foot direction one save. Bill catch power agree.\nDraw benefit low apply. Act animal science manager professional big join.",
+    "productColors": [
+      "Blue",
+      "Pink",
+      "Yellow",
+      "Red"
+    ],
+    "productSize": [
+      "L"
+    ],
+    "productRating": 4.0,
+    "productDateAdded": "2025-09-20 11:06:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "141 cm"
+    }
+  },
+  {
+    "id": 23,
+    "productName": "Ameliorated global open system",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/736/841/any",
+    "productDescription": "Security skin reach parent challenge if.\nMoment strong million. Water near pass practice itself south minute nearly.\nIts amount both film.",
+    "productColors": [
+      "Red"
+    ],
+    "productSize": [
+      "S",
+      "M"
+    ],
+    "productRating": 2.5,
+    "productDateAdded": "2025-09-23 11:35:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "103 cm"
+    }
+  },
+  {
+    "id": 24,
+    "productName": "Right-sized fault-tolerant Local Area Network",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/297x402",
+    "productDescription": "Decision news development friend. We answer seem decide task gas. Building beautiful sell nearly agent.",
+    "productColors": [
+      "Blue",
+      "Brown",
+      "Red",
+      "Grey"
+    ],
+    "productSize": [
+      "XXL",
+      "Free Size"
+    ],
+    "productRating": 1.8,
+    "productDateAdded": "2025-10-13 14:13:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "164 cm"
+    }
+  },
+  {
+    "id": 25,
+    "productName": "Right-sized empowering forecast",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/796/728/any",
+    "productDescription": "Kind people only himself door your. Officer common sometimes lay product. Have close against hold want return involve.",
+    "productColors": [
+      "Purple",
+      "White"
+    ],
+    "productSize": [
+      "M",
+      "XXL"
+    ],
+    "productRating": 4.0,
+    "productDateAdded": "2025-09-17 18:09:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "144 cm"
+    }
+  },
+  {
+    "id": 26,
+    "productName": "Front-line background middleware",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/402x8",
+    "productDescription": "Newspaper image recognize suddenly painting foot. Forward should prove audience. Also participant make surface.",
+    "productColors": [
+      "Grey",
+      "Red",
+      "Pink",
+      "White"
+    ],
+    "productSize": [
+      "S",
+      "XXL"
+    ],
+    "productRating": 1.6,
+    "productDateAdded": "2025-08-21 01:52:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "188 cm"
+    }
+  },
+  {
+    "id": 27,
+    "productName": "Adaptive local architecture",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/912/985",
+    "productDescription": "Our partner thing. Baby class he kind account. Pass ten smile include management deal face. Scientist pressure attorney policy.",
+    "productColors": [
+      "Grey",
+      "Yellow"
+    ],
+    "productSize": [
+      "M",
+      "XL",
+      "XS"
+    ],
+    "productRating": 0.7,
+    "productDateAdded": "2025-09-07 07:24:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "178 cm"
+    }
+  },
+  {
+    "id": 28,
+    "productName": "Mandatory logistical data-warehouse",
+    "productCategory": "Lehenga",
+    "productImage": "https://placeimg.com/538/433/any",
+    "productDescription": "Thank off bad above race yes blue specific. Prevent standard somebody success spring media.",
+    "productColors": [
+      "Brown",
+      "Green",
+      "Purple",
+      "White"
+    ],
+    "productSize": [
+      "L",
+      "M"
+    ],
+    "productRating": 0.9,
+    "productDateAdded": "2025-09-07 21:55:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "220 cm"
+    }
+  },
+  {
+    "id": 29,
+    "productName": "Versatile holistic projection",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/904/911",
+    "productDescription": "Prevent resource middle nor defense plant. Happy budget once prepare something control.\nWest chance attack well. Bed four bag.",
+    "productColors": [
+      "Blue"
+    ],
+    "productSize": [
+      "S",
+      "XXL",
+      "XL"
+    ],
+    "productRating": 3.4,
+    "productDateAdded": "2025-10-08 21:28:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "252 cm"
+    }
+  },
+  {
+    "id": 30,
+    "productName": "Synchronized user-facing firmware",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/519x819",
+    "productDescription": "Citizen play actually concern ground bill begin. Example question agree mother mouth center. Say box kid oil blue. Against government camera him.",
+    "productColors": [
+      "Purple",
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "productSize": [
+      "Free Size",
+      "L",
+      "XL"
+    ],
+    "productRating": 0.2,
+    "productDateAdded": "2025-10-10 00:40:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "171 cm"
+    }
+  },
+  {
+    "id": 31,
+    "productName": "Triple-buffered impactful task-force",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/775/587",
+    "productDescription": "South time remain.\nRight evidence garden everyone need police common. Part unit gas appear small. Resource general nor.",
+    "productColors": [
+      "Yellow",
+      "Pink",
+      "Grey"
+    ],
+    "productSize": [
+      "M",
+      "Free Size"
+    ],
+    "productRating": 3.1,
+    "productDateAdded": "2025-09-15 10:59:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "198 cm"
+    }
+  },
+  {
+    "id": 32,
+    "productName": "Switchable clear-thinking knowledgebase",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/616/893",
+    "productDescription": "Drop likely measure a else chance authority. Other white huge.",
+    "productColors": [
+      "Yellow",
+      "White",
+      "Green",
+      "Black"
+    ],
+    "productSize": [
+      "L",
+      "Free Size"
+    ],
+    "productRating": 1.9,
+    "productDateAdded": "2025-09-29 01:57:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "253 cm"
+    }
+  },
+  {
+    "id": 33,
+    "productName": "Managed mobile project",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/267/384/any",
+    "productDescription": "Fund grow fact high. Ago dream international reflect. Water military everyone white bed body.",
+    "productColors": [
+      "Pink"
+    ],
+    "productSize": [
+      "M",
+      "XXL",
+      "S",
+      "XL"
+    ],
+    "productRating": 3.9,
+    "productDateAdded": "2025-09-10 12:22:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "185 cm"
+    }
+  },
+  {
+    "id": 34,
+    "productName": "Secured fresh-thinking pricing structure",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/354x841",
+    "productDescription": "Remain place protect report. Community American must fish painting always woman.\nCenter you still tree new yourself.",
+    "productColors": [
+      "Blue",
+      "Purple",
+      "Yellow"
+    ],
+    "productSize": [
+      "M"
+    ],
+    "productRating": 3.7,
+    "productDateAdded": "2025-08-29 21:46:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "92 cm"
+    }
+  },
+  {
+    "id": 35,
+    "productName": "Future-proofed radical strategy",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/312/980/any",
+    "productDescription": "Hot prepare establish memory firm behind now.\nPerhaps eat trouble. Knowledge spring chance although. When still coach former federal enter eight.",
+    "productColors": [
+      "White",
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "productSize": [
+      "XXL",
+      "Free Size",
+      "M"
+    ],
+    "productRating": 3.4,
+    "productDateAdded": "2025-10-03 10:02:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "226 cm"
+    }
+  },
+  {
+    "id": 36,
+    "productName": "Fully-configurable multi-tasking focus group",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/112x512",
+    "productDescription": "General economy beyond without. Describe key federal myself. Play raise executive write. Clearly current listen specific these.",
+    "productColors": [
+      "Yellow"
+    ],
+    "productSize": [
+      "XL",
+      "S"
+    ],
+    "productRating": 0.7,
+    "productDateAdded": "2025-09-16 11:50:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "172 cm"
+    }
+  },
+  {
+    "id": 37,
+    "productName": "Face-to-face eco-centric workforce",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/20/1024",
+    "productDescription": "It keep job nature east. Various do investment.\nPlay remain middle stock daughter war right. Option about raise item its. Yourself term debate.",
+    "productColors": [
+      "Pink",
+      "Yellow",
+      "Grey",
+      "Brown"
+    ],
+    "productSize": [
+      "M",
+      "Free Size",
+      "XS"
+    ],
+    "productRating": 0.9,
+    "productDateAdded": "2025-08-26 17:20:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "218 cm"
+    }
+  },
+  {
+    "id": 38,
+    "productName": "Switchable zero administration installation",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/620/869/any",
+    "productDescription": "Anything movement task hope figure agent southern. Lot full early help else close week. Them still really team onto road.",
+    "productColors": [
+      "Black",
+      "Brown",
+      "Red",
+      "Green"
+    ],
+    "productSize": [
+      "XL",
+      "XXL",
+      "M"
+    ],
+    "productRating": 3.7,
+    "productDateAdded": "2025-08-25 15:33:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "294 cm"
+    }
+  },
+  {
+    "id": 39,
+    "productName": "Right-sized scalable definition",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/1017/320/any",
+    "productDescription": "Expect impact physical doctor benefit increase.",
+    "productColors": [
+      "Black",
+      "Blue",
+      "Brown"
+    ],
+    "productSize": [
+      "XL",
+      "S"
+    ],
+    "productRating": 4.2,
+    "productDateAdded": "2025-09-14 13:25:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "202 cm"
+    }
+  },
+  {
+    "id": 40,
+    "productName": "Secured value-added leverage",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/292/281",
+    "productDescription": "Mention page green often become political kid. Baby new movement arrive for health recognize. Specific social next ground rise analysis enough upon.",
+    "productColors": [
+      "White",
+      "Yellow"
+    ],
+    "productSize": [
+      "XL"
+    ],
+    "productRating": 1.6,
+    "productDateAdded": "2025-10-13 22:30:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "263 cm"
+    }
+  },
+  {
+    "id": 41,
+    "productName": "Multi-layered fault-tolerant projection",
+    "productCategory": "Lehenga",
+    "productImage": "https://placeimg.com/316/769/any",
+    "productDescription": "Tell cover head campaign your nearly weight. Local nation six list area. Admit so art population.",
+    "productColors": [
+      "Yellow",
+      "Black",
+      "Green"
+    ],
+    "productSize": [
+      "XL",
+      "S",
+      "M"
+    ],
+    "productRating": 2.0,
+    "productDateAdded": "2025-09-19 14:43:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "240 cm"
+    }
+  },
+  {
+    "id": 42,
+    "productName": "Operative demand-driven application",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/574/801",
+    "productDescription": "Wife source produce line. Back put power difficult tree could surface base. Seem with now until claim gun.",
+    "productColors": [
+      "Purple",
+      "White",
+      "Brown",
+      "Blue"
+    ],
+    "productSize": [
+      "S",
+      "L"
+    ],
+    "productRating": 4.7,
+    "productDateAdded": "2025-10-12 12:30:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "204 cm"
+    }
+  },
+  {
+    "id": 43,
+    "productName": "Synergistic human-resource alliance",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/138/784",
+    "productDescription": "Agreement artist six the argue husband. Brother evening necessary wide.",
+    "productColors": [
+      "Grey"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 1.1,
+    "productDateAdded": "2025-09-23 23:12:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "173 cm"
+    }
+  },
+  {
+    "id": 44,
+    "productName": "Open-source heuristic portal",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/728/417",
+    "productDescription": "Movie answer three nothing lay teacher conference. Agree through source enjoy.\nAgain member event perhaps determine me. Art white agreement until.",
+    "productColors": [
+      "Brown",
+      "Green"
+    ],
+    "productSize": [
+      "XL",
+      "XS",
+      "Free Size",
+      "S"
+    ],
+    "productRating": 4.9,
+    "productDateAdded": "2025-08-24 03:33:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "216 cm"
+    }
+  },
+  {
+    "id": 45,
+    "productName": "Horizontal contextually-based architecture",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/462/922/any",
+    "productDescription": "Experience themselves appear focus sure wear really forget. Huge be seat stage meeting number. Day issue future after future room business.",
+    "productColors": [
+      "Green",
+      "Black"
+    ],
+    "productSize": [
+      "L"
+    ],
+    "productRating": 3.9,
+    "productDateAdded": "2025-09-19 04:55:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "296 cm"
+    }
+  },
+  {
+    "id": 46,
+    "productName": "Horizontal 24hour initiative",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/441/162",
+    "productDescription": "Suggest peace around. Level indicate enough character. Might friend success.",
+    "productColors": [
+      "Purple",
+      "Blue",
+      "White"
+    ],
+    "productSize": [
+      "XXL",
+      "Free Size",
+      "L"
+    ],
+    "productRating": 4.8,
+    "productDateAdded": "2025-10-12 23:40:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "170 cm"
+    }
+  },
+  {
+    "id": 47,
+    "productName": "Balanced transitional leverage",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/579/255",
+    "productDescription": "Scientist western same least share owner order. And kid part prepare remember more long life.",
+    "productColors": [
+      "White"
+    ],
+    "productSize": [
+      "L",
+      "Free Size"
+    ],
+    "productRating": 2.0,
+    "productDateAdded": "2025-10-16 04:34:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "275 cm"
+    }
+  },
+  {
+    "id": 48,
+    "productName": "Vision-oriented responsive knowledge user",
+    "productCategory": "Saree",
+    "productImage": "https://dummyimage.com/430x137",
+    "productDescription": "Including door kitchen sometimes four sister teacher. Hold raise run maintain mind rise low.",
+    "productColors": [
+      "Brown",
+      "Red"
+    ],
+    "productSize": [
+      "L",
+      "M",
+      "XS"
+    ],
+    "productRating": 2.4,
+    "productDateAdded": "2025-09-27 00:00:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "177 cm"
+    }
+  },
+  {
+    "id": 49,
+    "productName": "Cross-group next generation application",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/477/862",
+    "productDescription": "Itself our raise forget candidate church before material. Federal national cover first impact eat. It respond red business risk project fund.",
+    "productColors": [
+      "Black",
+      "White",
+      "Yellow",
+      "Purple"
+    ],
+    "productSize": [
+      "XS",
+      "XXL",
+      "M",
+      "XL"
+    ],
+    "productRating": 1.3,
+    "productDateAdded": "2025-10-10 17:14:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "210 cm"
+    }
+  },
+  {
+    "id": 50,
+    "productName": "Streamlined didactic standardization",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/923/257/any",
+    "productDescription": "Others such animal candidate religious focus. Film crime sport already then. Film professional control expert property number fire.",
+    "productColors": [
+      "Yellow",
+      "White",
+      "Grey",
+      "Purple"
+    ],
+    "productSize": [
+      "M",
+      "S",
+      "XL"
+    ],
+    "productRating": 2.5,
+    "productDateAdded": "2025-08-20 02:58:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "260 cm"
+    }
+  },
+  {
+    "id": 51,
+    "productName": "De-engineered attitude-oriented moratorium",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/273x266",
+    "productDescription": "Role deal provide show eye wonder appear lawyer. Capital floor chance sport. Make position rather. Off theory ready case health admit picture lose.",
+    "productColors": [
+      "Grey",
+      "Blue",
+      "Brown",
+      "Black"
+    ],
+    "productSize": [
+      "XXL",
+      "XS",
+      "L"
+    ],
+    "productRating": 0.3,
+    "productDateAdded": "2025-08-28 22:39:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "280 cm"
+    }
+  },
+  {
+    "id": 52,
+    "productName": "Universal heuristic policy",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/1013/972",
+    "productDescription": "Star meeting line instead option risk myself author. Together expect summer.",
+    "productColors": [
+      "Black",
+      "Pink",
+      "Yellow"
+    ],
+    "productSize": [
+      "M",
+      "XXL",
+      "S"
+    ],
+    "productRating": 4.0,
+    "productDateAdded": "2025-08-18 06:28:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "206 cm"
+    }
+  },
+  {
+    "id": 53,
+    "productName": "Object-based 24hour info-mediaries",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/312/443",
+    "productDescription": "About reason begin. Though central sort if race imagine.\nMrs first very its why purpose particular. Hair number story white environment.",
+    "productColors": [
+      "Grey"
+    ],
+    "productSize": [
+      "XL",
+      "XXL",
+      "S"
+    ],
+    "productRating": 4.1,
+    "productDateAdded": "2025-09-28 10:03:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "150 cm"
+    }
+  },
+  {
+    "id": 54,
+    "productName": "Universal tangible implementation",
+    "productCategory": "Lehenga",
+    "productImage": "https://placeimg.com/214/964/any",
+    "productDescription": "Government some personal hold place not thousand. Than option thus exist sing far.",
+    "productColors": [
+      "Red",
+      "Brown",
+      "Pink"
+    ],
+    "productSize": [
+      "XL",
+      "S",
+      "M"
+    ],
+    "productRating": 3.8,
+    "productDateAdded": "2025-09-23 12:08:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "265 cm"
+    }
+  },
+  {
+    "id": 55,
+    "productName": "Networked intermediate synergy",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/821/264/any",
+    "productDescription": "Yes he open actually movie. Course dream food relate stock reduce and.\nDoctor walk true radio deep industry behind.",
+    "productColors": [
+      "Grey",
+      "Purple",
+      "Black",
+      "White"
+    ],
+    "productSize": [
+      "Free Size",
+      "XXL",
+      "L"
+    ],
+    "productRating": 2.6,
+    "productDateAdded": "2025-09-15 07:11:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "238 cm"
+    }
+  },
+  {
+    "id": 56,
+    "productName": "Sharable homogeneous approach",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/579/176",
+    "productDescription": "Series attack attack. Recognize man away carry get. Move green exactly back or relationship.",
+    "productColors": [
+      "Purple",
+      "Red",
+      "Green",
+      "Brown"
+    ],
+    "productSize": [
+      "M",
+      "S",
+      "XXL",
+      "L"
+    ],
+    "productRating": 0.4,
+    "productDateAdded": "2025-09-14 00:09:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "288 cm"
+    }
+  },
+  {
+    "id": 57,
+    "productName": "Decentralized bi-directional hub",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/747x83",
+    "productDescription": "Moment house case billion. Camera structure tonight large. Already political long week maybe.",
+    "productColors": [
+      "Blue",
+      "Pink"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 3.8,
+    "productDateAdded": "2025-09-22 17:50:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "206 cm"
+    }
+  },
+  {
+    "id": 58,
+    "productName": "Switchable upward-trending data-warehouse",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/147/122",
+    "productDescription": "Modern manage area street. Perhaps wonder believe.",
+    "productColors": [
+      "Red",
+      "Grey",
+      "Yellow"
+    ],
+    "productSize": [
+      "XXL",
+      "XS",
+      "M",
+      "L"
+    ],
+    "productRating": 2.2,
+    "productDateAdded": "2025-10-14 09:10:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "236 cm"
+    }
+  },
+  {
+    "id": 59,
+    "productName": "Multi-lateral national access",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/317/319/any",
+    "productDescription": "Score relate sense friend. Trip board bag break drug.\nClearly school picture military home.",
+    "productColors": [
+      "Red",
+      "Pink"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 3.3,
+    "productDateAdded": "2025-08-23 13:08:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "90 cm"
+    }
+  },
+  {
+    "id": 60,
+    "productName": "Business-focused actuating attitude",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/968/1013/any",
+    "productDescription": "Still maintain ask wall agreement special. Television suddenly none next police about couple.",
+    "productColors": [
+      "Pink",
+      "Grey",
+      "Black",
+      "Yellow"
+    ],
+    "productSize": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "productRating": 3.2,
+    "productDateAdded": "2025-09-07 20:35:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "218 cm"
+    }
+  },
+  {
+    "id": 61,
+    "productName": "Multi-channeled full-range artificial intelligence",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/98/586",
+    "productDescription": "Occur entire modern field second expert free. Win marriage born. Benefit blood alone daughter someone hard.",
+    "productColors": [
+      "Brown"
+    ],
+    "productSize": [
+      "L",
+      "XS",
+      "Free Size"
+    ],
+    "productRating": 2.5,
+    "productDateAdded": "2025-09-08 00:05:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "127 cm"
+    }
+  },
+  {
+    "id": 62,
+    "productName": "Expanded radical model",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/2x546",
+    "productDescription": "Bar exist beat discuss help. Pretty realize positive clearly wrong. My smile guess candidate information clear direction.",
+    "productColors": [
+      "Grey",
+      "Blue",
+      "Green",
+      "Black"
+    ],
+    "productSize": [
+      "XXL"
+    ],
+    "productRating": 0.2,
+    "productDateAdded": "2025-09-14 18:39:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "137 cm"
+    }
+  },
+  {
+    "id": 63,
+    "productName": "Synergistic local task-force",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/758x465",
+    "productDescription": "Kitchen no no imagine. Return a organization share PM strong range.\nFind something this away another order. Social gun everybody development minute.",
+    "productColors": [
+      "White",
+      "Yellow",
+      "Purple",
+      "Red"
+    ],
+    "productSize": [
+      "XXL",
+      "L"
+    ],
+    "productRating": 1.6,
+    "productDateAdded": "2025-08-19 00:53:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "102 cm"
+    }
+  },
+  {
+    "id": 64,
+    "productName": "Persevering 3rdgeneration analyzer",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/642/810/any",
+    "productDescription": "Artist mouth according help someone seek. Religious two certainly stay state. Goal artist wish line traditional operation.",
+    "productColors": [
+      "Red",
+      "Purple",
+      "Green"
+    ],
+    "productSize": [
+      "XXL",
+      "XL",
+      "Free Size"
+    ],
+    "productRating": 0.2,
+    "productDateAdded": "2025-10-15 16:22:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "234 cm"
+    }
+  },
+  {
+    "id": 65,
+    "productName": "User-centric eco-centric groupware",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/525/315",
+    "productDescription": "Improve add measure spend instead official. Center country camera oil talk international significant.",
+    "productColors": [
+      "Green",
+      "Blue",
+      "Grey"
+    ],
+    "productSize": [
+      "L",
+      "S",
+      "XXL"
+    ],
+    "productRating": 1.1,
+    "productDateAdded": "2025-08-27 01:00:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "272 cm"
+    }
+  },
+  {
+    "id": 66,
+    "productName": "Front-line object-oriented budgetary management",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/680x790",
+    "productDescription": "Team key present worker example Republican conference phone. Matter happy build green too action. Follow sit just.",
+    "productColors": [
+      "Blue"
+    ],
+    "productSize": [
+      "L",
+      "Free Size",
+      "XL"
+    ],
+    "productRating": 1.5,
+    "productDateAdded": "2025-09-18 01:01:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "258 cm"
+    }
+  },
+  {
+    "id": 67,
+    "productName": "Universal encompassing access",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/669/335",
+    "productDescription": "Issue film rock compare trouble region southern. Event become perhaps cell positive lose generation. Really relationship later manage.",
+    "productColors": [
+      "Blue",
+      "Yellow"
+    ],
+    "productSize": [
+      "M"
+    ],
+    "productRating": 0.4,
+    "productDateAdded": "2025-09-23 19:46:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "295 cm"
+    }
+  },
+  {
+    "id": 68,
+    "productName": "Multi-lateral contextually-based paradigm",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/520/719",
+    "productDescription": "Range into attention support. Entire prove study indicate. Accept nature economy eat face party.",
+    "productColors": [
+      "Green",
+      "Yellow",
+      "White",
+      "Grey"
+    ],
+    "productSize": [
+      "XXL",
+      "S",
+      "XS",
+      "Free Size"
+    ],
+    "productRating": 4.3,
+    "productDateAdded": "2025-10-07 09:13:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "281 cm"
+    }
+  },
+  {
+    "id": 69,
+    "productName": "Re-contextualized optimizing structure",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/716/904/any",
+    "productDescription": "Church book positive woman seem maybe. Debate without education approach create name toward. Professional reflect again both.",
+    "productColors": [
+      "Yellow",
+      "Red"
+    ],
+    "productSize": [
+      "XXL",
+      "M"
+    ],
+    "productRating": 2.4,
+    "productDateAdded": "2025-08-25 21:54:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "275 cm"
+    }
+  },
+  {
+    "id": 70,
+    "productName": "Customizable client-server open system",
+    "productCategory": "Lehenga",
+    "productImage": "https://placekitten.com/497/719",
+    "productDescription": "Type dream hit phone somebody. Approach myself rather type.",
+    "productColors": [
+      "Blue",
+      "Black",
+      "Brown"
+    ],
+    "productSize": [
+      "XS"
+    ],
+    "productRating": 0.2,
+    "productDateAdded": "2025-08-27 16:51:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "225 cm"
+    }
+  },
+  {
+    "id": 71,
+    "productName": "User-centric 4thgeneration customer loyalty",
+    "productCategory": "Lehenga",
+    "productImage": "https://placeimg.com/910/253/any",
+    "productDescription": "After realize bag front level family necessary. Quite color company also move. Admit also amount executive item establish.",
+    "productColors": [
+      "Pink",
+      "Grey",
+      "Green"
+    ],
+    "productSize": [
+      "M"
+    ],
+    "productRating": 4.2,
+    "productDateAdded": "2025-09-11 08:07:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "172 cm"
+    }
+  },
+  {
+    "id": 72,
+    "productName": "Sharable didactic challenge",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/854/953",
+    "productDescription": "American method magazine career. Base key view kind.\nDefense protect us. Especially Congress effort certain big deep poor game.",
+    "productColors": [
+      "Purple",
+      "Brown",
+      "Green"
+    ],
+    "productSize": [
+      "L",
+      "M"
+    ],
+    "productRating": 4.0,
+    "productDateAdded": "2025-09-10 13:39:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "170 cm"
+    }
+  },
+  {
+    "id": 73,
+    "productName": "Cross-group leadingedge moderator",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/689x718",
+    "productDescription": "Value collection heart pay month. Fund with nothing believe practice.",
+    "productColors": [
+      "Pink",
+      "Blue"
+    ],
+    "productSize": [
+      "S",
+      "XS"
+    ],
+    "productRating": 3.8,
+    "productDateAdded": "2025-09-14 23:18:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "127 cm"
+    }
+  },
+  {
+    "id": 74,
+    "productName": "Profound radical encoding",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/113x504",
+    "productDescription": "Follow worker until soldier tax mean. Power process attack manager we draw wife. Nature he plan range stuff manage.",
+    "productColors": [
+      "Blue",
+      "Red",
+      "Purple"
+    ],
+    "productSize": [
+      "XXL",
+      "S",
+      "XS",
+      "Free Size"
+    ],
+    "productRating": 4.3,
+    "productDateAdded": "2025-09-07 07:54:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "115 cm"
+    }
+  },
+  {
+    "id": 75,
+    "productName": "Enhanced methodical strategy",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/262/17",
+    "productDescription": "Special player water several gun. Lawyer magazine method build put. Box develop much act growth or. Tax test moment.",
+    "productColors": [
+      "Black",
+      "Yellow"
+    ],
+    "productSize": [
+      "XXL",
+      "S",
+      "L"
+    ],
+    "productRating": 0.3,
+    "productDateAdded": "2025-09-05 14:20:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "242 cm"
+    }
+  },
+  {
+    "id": 76,
+    "productName": "Fully-configurable needs-based encryption",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/614/603/any",
+    "productDescription": "Sign certainly everyone manage. Own my than laugh. Else by decision test interesting tend plan. Suggest those book generation hard.",
+    "productColors": [
+      "Pink",
+      "White",
+      "Red"
+    ],
+    "productSize": [
+      "L",
+      "XXL",
+      "Free Size",
+      "XL"
+    ],
+    "productRating": 4.8,
+    "productDateAdded": "2025-08-17 15:42:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "84 cm"
+    }
+  },
+  {
+    "id": 77,
+    "productName": "Future-proofed transitional methodology",
+    "productCategory": "Saree",
+    "productImage": "https://dummyimage.com/241x282",
+    "productDescription": "Kind little trouble run general hear. Decide government structure.",
+    "productColors": [
+      "Black"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 2.9,
+    "productDateAdded": "2025-09-10 14:56:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "145 cm"
+    }
+  },
+  {
+    "id": 78,
+    "productName": "Progressive empowering moratorium",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/231/344/any",
+    "productDescription": "Interesting cultural build particular interview would analysis. Special ball grow.",
+    "productColors": [
+      "Green",
+      "Brown",
+      "Red"
+    ],
+    "productSize": [
+      "Free Size"
+    ],
+    "productRating": 1.3,
+    "productDateAdded": "2025-09-07 14:35:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "285 cm"
+    }
+  },
+  {
+    "id": 79,
+    "productName": "Inverse dynamic migration",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/633/72",
+    "productDescription": "Attorney memory son group last main. Onto suddenly rise dark appear. Scene property summer tax.",
+    "productColors": [
+      "White",
+      "Yellow",
+      "Red"
+    ],
+    "productSize": [
+      "XS",
+      "S",
+      "L",
+      "M"
+    ],
+    "productRating": 2.9,
+    "productDateAdded": "2025-10-04 23:37:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "188 cm"
+    }
+  },
+  {
+    "id": 80,
+    "productName": "Business-focused multi-state implementation",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/67/511",
+    "productDescription": "Across evidence hair let crime prevent.\nDiscuss sport get machine lay field. You policy bag fish agency score.",
+    "productColors": [
+      "Pink",
+      "Purple"
+    ],
+    "productSize": [
+      "XXL"
+    ],
+    "productRating": 3.9,
+    "productDateAdded": "2025-09-13 16:39:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "88 cm"
+    }
+  },
+  {
+    "id": 81,
+    "productName": "Self-enabling full-range support",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/124/335",
+    "productDescription": "Value edge special not camera mention on. Laugh vote probably majority newspaper rate. Special deal far owner. Fish fight hope hair treat full.",
+    "productColors": [
+      "Red"
+    ],
+    "productSize": [
+      "S",
+      "XL",
+      "M"
+    ],
+    "productRating": 1.8,
+    "productDateAdded": "2025-10-15 17:44:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "184 cm"
+    }
+  },
+  {
+    "id": 82,
+    "productName": "Cross-group grid-enabled parallelism",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/350x351",
+    "productDescription": "Write floor spend accept spend yet. Daughter pressure beat leg water music character. We type tend gun fund.",
+    "productColors": [
+      "Purple",
+      "Red"
+    ],
+    "productSize": [
+      "L",
+      "M"
+    ],
+    "productRating": 1.5,
+    "productDateAdded": "2025-09-07 18:42:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "146 cm"
+    }
+  },
+  {
+    "id": 83,
+    "productName": "Devolved global Graphic Interface",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/920/485",
+    "productDescription": "Experience sort keep teacher any. Million something government perform sea great. Your financial man.",
+    "productColors": [
+      "Purple",
+      "Yellow"
+    ],
+    "productSize": [
+      "XS",
+      "XL",
+      "XXL"
+    ],
+    "productRating": 1.4,
+    "productDateAdded": "2025-08-26 18:06:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "116 cm"
+    }
+  },
+  {
+    "id": 84,
+    "productName": "Cross-group value-added customer loyalty",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/12x672",
+    "productDescription": "Effect half option heart sound right. Move somebody glass up still father maintain.",
+    "productColors": [
+      "Green",
+      "Pink",
+      "Purple"
+    ],
+    "productSize": [
+      "XXL"
+    ],
+    "productRating": 4.6,
+    "productDateAdded": "2025-08-22 09:48:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "152 cm"
+    }
+  },
+  {
+    "id": 85,
+    "productName": "Open-architected tangible forecast",
+    "productCategory": "Blouse",
+    "productImage": "https://placeimg.com/966/619/any",
+    "productDescription": "Project sound official property particular this those.\nContain why already thus. Young myself provide party view section. Market sister section.",
+    "productColors": [
+      "Black",
+      "Brown",
+      "Grey"
+    ],
+    "productSize": [
+      "S"
+    ],
+    "productRating": 3.3,
+    "productDateAdded": "2025-10-02 10:52:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "126 cm"
+    }
+  },
+  {
+    "id": 86,
+    "productName": "Switchable global policy",
+    "productCategory": "Lehenga",
+    "productImage": "https://www.lorempixel.com/406/50",
+    "productDescription": "Cost kid process clearly color professional democratic.\nEffort information different process word share. Too evidence participant tell.",
+    "productColors": [
+      "Pink",
+      "Purple"
+    ],
+    "productSize": [
+      "Free Size",
+      "XL"
+    ],
+    "productRating": 2.0,
+    "productDateAdded": "2025-09-23 00:03:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "278 cm"
+    }
+  },
+  {
+    "id": 87,
+    "productName": "Organic encompassing utilization",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/757x947",
+    "productDescription": "Feel leave professional economic project. Game little manager.\nFilm state peace brother. Music leader listen age window she mission.",
+    "productColors": [
+      "Black",
+      "Brown"
+    ],
+    "productSize": [
+      "L"
+    ],
+    "productRating": 4.0,
+    "productDateAdded": "2025-09-03 10:47:20",
+    "moreInfo": {
+      "productMaterial": "Georgette",
+      "productLength": "163 cm"
+    }
+  },
+  {
+    "id": 88,
+    "productName": "Assimilated fresh-thinking time-frame",
+    "productCategory": "Saree",
+    "productImage": "https://www.lorempixel.com/992/456",
+    "productDescription": "Hundred western relationship letter if writer. Name daughter month crime head again. Reality which great include ever light.",
+    "productColors": [
+      "White"
+    ],
+    "productSize": [
+      "XXL"
+    ],
+    "productRating": 0.7,
+    "productDateAdded": "2025-09-02 02:16:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "87 cm"
+    }
+  },
+  {
+    "id": 89,
+    "productName": "Integrated asynchronous attitude",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/43/241/any",
+    "productDescription": "Scientist partner write size man good consider. May team probably if station memory.",
+    "productColors": [
+      "Brown",
+      "Purple",
+      "Grey"
+    ],
+    "productSize": [
+      "XXL",
+      "XL"
+    ],
+    "productRating": 1.5,
+    "productDateAdded": "2025-08-17 22:47:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "184 cm"
+    }
+  },
+  {
+    "id": 90,
+    "productName": "Managed 24/7 Internet solution",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/534x47",
+    "productDescription": "Magazine amount without try past night culture. Daughter down material small nice stage lot.",
+    "productColors": [
+      "Red"
+    ],
+    "productSize": [
+      "XS",
+      "L",
+      "M"
+    ],
+    "productRating": 1.1,
+    "productDateAdded": "2025-09-17 20:13:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "184 cm"
+    }
+  },
+  {
+    "id": 91,
+    "productName": "Monitored value-added methodology",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/714/886",
+    "productDescription": "But appear style company doctor reveal. Ball daughter either American write central.\nPolitical after similar point local across each.",
+    "productColors": [
+      "Pink",
+      "Black",
+      "Red",
+      "Green"
+    ],
+    "productSize": [
+      "S",
+      "M",
+      "XXL",
+      "XS"
+    ],
+    "productRating": 4.1,
+    "productDateAdded": "2025-10-09 17:00:20",
+    "moreInfo": {
+      "productMaterial": "Net",
+      "productLength": "190 cm"
+    }
+  },
+  {
+    "id": 92,
+    "productName": "Profound contextually-based forecast",
+    "productCategory": "Saree",
+    "productImage": "https://dummyimage.com/52x184",
+    "productDescription": "Experience do alone pick ready. Body color cut hair science nice.",
+    "productColors": [
+      "Brown",
+      "Red",
+      "Black",
+      "White"
+    ],
+    "productSize": [
+      "XL",
+      "XXL"
+    ],
+    "productRating": 0.3,
+    "productDateAdded": "2025-10-02 02:27:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "94 cm"
+    }
+  },
+  {
+    "id": 93,
+    "productName": "Fundamental content-based circuit",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/309/394",
+    "productDescription": "Event contain father play. Success sea board expert likely. Question admit receive perhaps.",
+    "productColors": [
+      "Brown",
+      "Yellow",
+      "Grey"
+    ],
+    "productSize": [
+      "XS",
+      "M",
+      "L",
+      "Free Size"
+    ],
+    "productRating": 3.1,
+    "productDateAdded": "2025-10-01 04:57:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "186 cm"
+    }
+  },
+  {
+    "id": 94,
+    "productName": "Business-focused executive implementation",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/403/59",
+    "productDescription": "Social film wish yes season owner. Tv business coach rich region. Series glass help happen.",
+    "productColors": [
+      "White",
+      "Blue",
+      "Grey"
+    ],
+    "productSize": [
+      "L",
+      "XXL",
+      "S"
+    ],
+    "productRating": 0.2,
+    "productDateAdded": "2025-09-09 18:52:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "89 cm"
+    }
+  },
+  {
+    "id": 95,
+    "productName": "Open-architected 3rdgeneration knowledgebase",
+    "productCategory": "Saree",
+    "productImage": "https://placekitten.com/852/221",
+    "productDescription": "Budget assume top manage option public most.\nConference behavior religious.",
+    "productColors": [
+      "Grey",
+      "Pink",
+      "Black",
+      "Yellow"
+    ],
+    "productSize": [
+      "M",
+      "XL",
+      "S",
+      "L"
+    ],
+    "productRating": 1.9,
+    "productDateAdded": "2025-09-22 14:20:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "136 cm"
+    }
+  },
+  {
+    "id": 96,
+    "productName": "Programmable bandwidth-monitored Graphic Interface",
+    "productCategory": "Blouse",
+    "productImage": "https://www.lorempixel.com/545/911",
+    "productDescription": "Could line event north capital bring my. Idea away identify smile administration positive. Situation increase memory debate staff party book.",
+    "productColors": [
+      "Purple"
+    ],
+    "productSize": [
+      "S"
+    ],
+    "productRating": 0.1,
+    "productDateAdded": "2025-10-06 18:19:20",
+    "moreInfo": {
+      "productMaterial": "Chiffon",
+      "productLength": "186 cm"
+    }
+  },
+  {
+    "id": 97,
+    "productName": "Sharable fresh-thinking forecast",
+    "productCategory": "Blouse",
+    "productImage": "https://dummyimage.com/479x745",
+    "productDescription": "Population animal wide daughter. Himself policy experience computer me new. Shake whose speak where ten painting.",
+    "productColors": [
+      "Pink"
+    ],
+    "productSize": [
+      "Free Size",
+      "S"
+    ],
+    "productRating": 3.7,
+    "productDateAdded": "2025-09-18 12:39:20",
+    "moreInfo": {
+      "productMaterial": "Cotton",
+      "productLength": "152 cm"
+    }
+  },
+  {
+    "id": 98,
+    "productName": "Up-sized bandwidth-monitored pricing structure",
+    "productCategory": "Saree",
+    "productImage": "https://placeimg.com/224/453/any",
+    "productDescription": "Again need stop analysis record. Respond sport information.\nOffer what center whatever. Stay fall save threat.",
+    "productColors": [
+      "Green",
+      "Grey"
+    ],
+    "productSize": [
+      "XL",
+      "S",
+      "Free Size",
+      "L"
+    ],
+    "productRating": 3.9,
+    "productDateAdded": "2025-09-02 12:50:20",
+    "moreInfo": {
+      "productMaterial": "Silk",
+      "productLength": "118 cm"
+    }
+  },
+  {
+    "id": 99,
+    "productName": "Optimized bi-directional interface",
+    "productCategory": "Lehenga",
+    "productImage": "https://dummyimage.com/856x598",
+    "productDescription": "Write might country money forget similar pretty nation. Authority nature event stuff. Least time nothing call there.",
+    "productColors": [
+      "Green",
+      "Red"
+    ],
+    "productSize": [
+      "M",
+      "XXL"
+    ],
+    "productRating": 4.1,
+    "productDateAdded": "2025-08-31 23:37:20",
+    "moreInfo": {
+      "productMaterial": "Velvet",
+      "productLength": "130 cm"
+    }
+  },
+  {
+    "id": 100,
+    "productName": "Distributed dedicated pricing structure",
+    "productCategory": "Blouse",
+    "productImage": "https://placekitten.com/839/117",
+    "productDescription": "Real how system summer discussion. Effect seven body. Fast last heart item leader. Address too around reality finally.",
+    "productColors": [
+      "Grey",
+      "Black",
+      "Red",
+      "Brown"
+    ],
+    "productSize": [
+      "M"
+    ],
+    "productRating": 2.9,
+    "productDateAdded": "2025-10-03 13:46:20",
+    "moreInfo": {
+      "productMaterial": "Organza",
+      "productLength": "193 cm"
+    }
+  }
+]}
