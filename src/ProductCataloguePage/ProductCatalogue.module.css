@@ -1,0 +1,38 @@
+.ProductCatalogueContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 3.2rem;
+}
+
+.sortIcon{
+    height: 3rem;
+    width: 3rem;
+}
+
+.productFilterConatiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #D9F1EC;
+}
+
+.filterResultText{
+    font-size: var(--font-size-text-large);
+    font-weight: var(--font-semi-bold);
+}
+
+.ProductsList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5.2rem;
+    padding-inline: 8rem;
+    justify-content: center;
+}
+
+.pagination{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    padding: 1.2rem;
+}

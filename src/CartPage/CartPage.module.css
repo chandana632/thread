@@ -1,0 +1,34 @@
+.subtotalContainer{
+    display: flex
+    ;
+        gap: 5rem;
+        width: 100%;
+        justify-content: end;
+        padding-block: 2rem;
+        padding-inline: 4rem;
+    
+}
+
+.subTotalLabel{
+    font-size: var(--font-size-header-xsmall);
+    font-weight: var(--font-semi-bold);
+    color: var( --font-new-arrivals-color);
+}
+
+.totalPrice{
+    font-size: var(--font-size-header-xsmall);
+}
+
+.checkoutContainer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.checkoutText{
+    font-size: var( --font-size-text-xlarge) !important;
+    font-weight: var(--font-semi-bold) !important;
+    background-color: var(--background-color-secondary-brown) !important;
+    color: black !important;
+}

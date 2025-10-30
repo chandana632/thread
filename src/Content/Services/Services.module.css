@@ -1,0 +1,177 @@
+.cashOnDelivery{
+    width:19.3rem;
+    height: 9.7rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1.2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background: linear-gradient( rgba(205, 114, 76, 0.2) 0%,  
+    rgba(182, 70, 22, 0.2) 50%, 
+    rgba(15, 14, 14, 0.2) 98%    ),
+    var(--background-color-secondary-teal);
+}
+
+.landingImage{
+    width: 100%;
+    background: linear-gradient(
+        rgb(22,182,150) 0%,
+        rgb(182,70,22) 100%
+    );
+}
+
+.serviceText{
+    font-size: var(--font-size-text-xlarge);
+}
+
+.servicesContainer{
+   display: flex;
+width: 100%;
+padding-inline: 8rem;
+gap: 12rem;
+justify-content: center;
+}
+
+.landingPageContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 3.2rem;
+}
+
+.catalogueContainer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    padding-inline: 4rem;
+    height: 40rem ;
+    margin-bottom: 3.2rem;
+}
+
+.newCatalogue{
+    background-image:
+    linear-gradient(rgba(252,252,252,0.1) 0%, rgba(49,47,47,0.1) 50%, rgba(14,11,11,0.1) 100%), url('src/assets/new-arrivals.svg'); 
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.newCatalogueText{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 1.2rem;
+    gap: 0.4rem;
+}
+
+.newArrivalsText{
+    font-size: var(--font-size-header-small);
+    font-weight: var(--font-extra-bold);
+    color: white;
+    cursor:pointer;
+}
+
+.productText{
+    display: flex;
+    font-size: var(--font-size-header-small);
+    font-weight: var(--font-extra-bold);
+    color: white;
+    height: 100%;
+    width: 100%;
+    justify-content: start;
+    align-items: center;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+
+
+.designerWear{
+    font-size: var(--font-size-header-xsmall);
+    font-weight: var(--font-bold);
+    color: rgb(230, 211, 211);
+    cursor: pointer;
+}
+
+.productContainer{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 1.2rem;
+}
+
+.productCards{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+}
+
+.productCard1{
+    background-image: url('src/assets/lehenga.svg');
+    background-size: cover;
+    
+}
+
+.productCard2{
+    background-image: url('src/assets/blouse.svg');
+    background-size: cover;
+
+}
+
+.lastProductCard{
+   background-image: url('src/assets/saree.svg');
+}
+
+.productsContainer{
+    display: flex;
+   flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+    align-items: center;
+}
+
+.productContainerText{
+    font-size: var(--font-size-header-large);
+    font-weight: var(--font-extra-bold);
+}
+
+.productsVariant{
+    display: flex;
+    gap: 3.8rem;
+    width: 100%;
+    justify-content: center;
+}
+
+.productVariantText{
+    font-size: var(--font-size-header-small);
+    font-weight: var(--font-bold);
+}
+
+.productVariantSelected{
+    text-decoration: underline;
+}
+
+.lehengaRoute{
+    text-decoration: none;
+}
+
+.productListContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5.2rem;
+    padding-inline: 8rem;
+    justify-content: center;
+}
+
+:link{
+    text-decoration: none;
+}
+
+@media (min-width:768px) and (max-width:1023px){
+    .serviceText{
+        font-size: var(--font-size-text-medium);
+    }
+}

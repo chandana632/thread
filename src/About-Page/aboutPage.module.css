@@ -1,0 +1,145 @@
+
+.aboutUsHeader{
+    color: var(--font-dark-text-color);
+    font-size: var(--font-size-text-medium);
+    font-weight: var(--font-medium);
+    font-family: var(--font)
+}
+
+.aboutParentContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    gap: 0.8rem;
+    width:100%;
+    background-color: var(--background-color-secondary-brown);
+    opacity: 75%;
+    /* padding-inline: 8rem;
+    padding-block: 2rem; */
+    padding-inline: 1rem;
+    padding-block: 0.75rem;
+}
+
+.aboutContactContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;  
+}
+
+.contactContiner{
+  width: 100%;
+}
+
+.contactInfoContainer{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+
+.aboutContactIcon{
+    height: 2rem;
+    width: 2rem;
+}
+
+.contactInfoText{
+    /* font-size: var(--font-size-text-secondary); */
+    font-size: var(--font-size-text-small);
+    font-weight:var(--font-medium);
+}
+
+.contactInfo{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.policy{
+    font-size: var(--font-size-text-small);
+    font-weight:var(--font-semi-bold);
+    color: var(--font-policy-text-color);
+    padding-block: 1rem;
+    text-decoration: underline;
+}
+
+.aboutInfoContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 2.2rem;
+    background-color: rgba(217, 217, 217, 0.12); 
+}
+
+.aboutText{
+    font-size: var(--font-size-text-small);
+    font-weight: var(--font-regular);
+   
+}
+
+.socialMedia{
+    display: flex;
+    gap: 2.8rem;
+}
+
+.socialMediaIcon{
+    height: 2rem;
+    width: 2rem;
+}
+
+@media (min-width: 768px) {
+ .aboutUsHeader{
+    font-size: var(--font-size-text-xlarge);
+}
+
+.aboutParentContainer{
+    padding-inline: 2rem;
+}
+
+.contactInfoText{
+    font-size: var(--font-size-text-large);
+    font-weight:var(--font-semi-bold);
+}
+
+.policy{
+    font-size: var(--font-size-text-xlarge);
+    font-weight:var(--font-bold);
+}
+
+.aboutText{
+    font-size: var(--font-size-text-xlarge);
+}
+
+.socialMediaIcon{
+    height: 3.2rem;
+    width: 3.2rem;
+}
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+ .aboutUsHeader{
+    font-size: var(--font-size-header-small);
+}
+
+.aboutParentContainer{
+    padding-inline: 8rem;
+    padding-block: 2rem;
+}
+
+.contactInfoText{
+    font-size: var(--font-size-text-large);
+    font-weight:var(--font-semi-bold);
+}
+
+.policy{
+    font-size: var(--font-size-text-xlarge);
+    font-weight:var(--font-bold);
+}
+
+.aboutText{
+    font-size: var(--font-size-text-xlarge);
+    font-weight: var(--font-regular);  
+}
+
+.socialMediaIcon{
+    height: 3.2rem;
+    width: 3.2rem;
+}
+}

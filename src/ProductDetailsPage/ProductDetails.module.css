@@ -1,0 +1,223 @@
+.mainImageContainer{
+    width: 45.9rem;
+    height: 30.4rem;
+    margin-block: 3.5rem;
+}
+.productDetails{
+    display: flex;
+    gap: 3.2rem;
+}
+
+.mainImage{
+    height: 100%;
+    width:100%;
+    object-fit: fill;
+}
+
+.productGallery{
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    gap: 1.2rem;
+    margin-inline:1rem ;
+}
+
+.productGalleryImages{
+    height: 100%;
+    width:100%;
+    object-fit: fill;
+}
+
+.productInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 3.2rem;
+    padding-block: 2rem;
+}
+
+.productText{
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+}
+
+.productCategory{
+    font-size: var(--font-size-text-small);
+    font-weight: var(--font-semi-bold);
+}
+
+.productTitle{
+    font-size: var( --font-size-header-small);
+    font-weight: var(--font-bold);
+}
+
+.productPrice{
+    font-size: var(--font-size-header-xsmall);
+}
+
+.productDetails{
+    font-size: var( --font-size-text-xlarge);
+}
+
+.productStyle{
+    display: flex;
+    gap: 3.2rem;
+}
+
+.productStyleContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.styleGroup{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.productCounter{
+    display: flex;
+    align-items: center;
+    gap: 0.1rem;
+}
+
+.countBox1{
+    min-width: 2.5rem !important;
+    height: 4.8rem;
+    border: 0.4px solid grey !important;
+    color:black !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    font-size: var(--font-size-text-large) !important;
+    font-weight: var(--font-bold) !important;
+  
+}
+
+.countBox2{
+    width: 5rem;
+    height: 4.8rem;
+    border: 0.4px solid grey !important;
+    color:black !important;
+    border-radius: 0px !important;
+    font-size: var(--font-size-text-large) !important;
+    padding-inline: 5px !important;
+}
+
+input:focus-visible{
+    outline: none;
+    border-radius: 0px !important;
+}
+.countBox3{
+    min-width: 2.5rem !important;
+    height: 4.8rem;
+    border: 0.4px solid grey !important;
+    color:black !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    font-size: var(--font-size-text-large) !important;
+    font-weight: var(--font-bold) !important;
+}
+
+.productCart{
+    display: flex;
+    gap: 1.6rem;
+    align-items: center;
+}
+
+.addToCart{
+    width: 15rem !important;
+    height: 5rem !important;
+    font-size:var(    --font-size-text-large) !important;
+    background-color: var(--background-color-secondary-teal) !important;
+    color: black !important;
+}
+
+.delete{
+    width: 15rem !important;
+    height: 5rem !important;
+    font-size:var(    --font-size-text-large) !important;
+    background-color: var( --background-color-secondary-brown) !important;
+    color: white !important;
+}
+
+.toggleButtonGrp{
+     width: 100%;
+     display: flex
+ ;
+     justify-content: center;
+}
+
+.toggleButton{
+    width:10rem;font-size:var(--font-size-text-large);
+    font-weight:var(--font-semi-bold);
+    color:black ;
+}
+
+.moreDetailsInfo{
+    display: flex;
+    width: 100%;
+    gap: 2.4rem;
+    margin-block: 2.4rem;
+}
+
+.ratingContainer{
+    display: flex;
+    width: 100%;
+    gap: 2.4rem;
+}
+
+.ratingResult{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.ratingNumber{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 0.2rem;
+}
+
+.ratingResultNumber{
+    font-size: var(--font-size-header-small);
+    font-weight: var(--font-extra-bold);
+}
+
+.totalRating{
+    font-size: var(--font-size-text-large);
+}
+
+.ratingStars{
+    width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+.ratingSlider{
+    width: 50%;
+    align-items: center;
+    height: 100%;
+    display: flex
+;
+}
+
+.ProductsList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5.2rem;
+    padding-inline: 8rem;
+    justify-content: center;
+}
+
+.moreProductsLabel{
+    font-size: var( --font-size-header-small);
+    font-weight: var(--font-semi-bold);
+    width: 100%;
+    display: flex
+;
+    justify-content: center;
+    margin-block: 2rem;
+}

@@ -1,0 +1,67 @@
+.filterContainer{
+    width:28.6rem;
+    background-color: rgb(87, 235, 205,0.26);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5.2rem;
+}
+
+.filterContainerHeader{
+    font-size: var(--font-size-header-small);
+    font-weight: var(--font-bold);
+    color:#B64616;
+    width:100%;
+    justify-content: center;
+    display: flex;
+    padding-top: 2.2rem;
+}
+
+.filterVariant{
+    display: flex;
+    flex-direction: column;
+    gap: 5.2rem;
+}
+
+.filterCategories{
+    display: flex;
+    flex-direction: column;
+}
+
+.categoryHeader{
+    font-size: var(--font-size-header-xsmall);
+    font-weight: var(--font-bold);
+    color:var(--background-color-secondary-brown);
+    display: flex;
+    justify-content: center;
+    width: 100% ;
+    margin-bottom: 1.5rem;
+}
+
+.categorylabel{
+    font-size: var(--font-size-text-large) !important;
+    display: flex;
+    justify-content: center;
+    width: 100% ;
+}
+
+.CategoryList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100% ;
+    gap: 0.6rem;
+}
+
+.applyButton{
+    background-color: #B64616 !important;
+    color: black !important;
+    border-radius: 1.6rem !important;
+    font-size: var(--font-size-header-xsmall) !important;
+    font-weight: var(--font-bold) !important;
+padding: 1rem !important;
+}
+
+Button .MuiTouchRipple-root{
+
+}

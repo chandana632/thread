@@ -1,0 +1,15 @@
+.SizeContainer{
+    height: 3rem;
+    width: 3rem;
+    border: 1px solid black;
+
+}
+
+.SizeLabel{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

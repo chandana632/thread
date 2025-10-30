@@ -1,0 +1,34 @@
+.ProductCardContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    width: 20rem;
+    height: 33rem;
+    border: 0.5px solid rgb(104, 118, 116);
+    margin: 0.2rem;
+}
+
+.productImage{
+    height: 25rem;
+    width: 100%;
+}
+
+.productImage img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.ProductDetails{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    padding-left: 0.6rem;
+}
+
+.productDetailsText{
+    font-size: var(--font-size-text-medium);
+    font-weight: var(--font-semi-bold);
+    color: black !important;
+    text-decoration: none !important;
+}
